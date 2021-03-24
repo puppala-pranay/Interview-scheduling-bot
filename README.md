@@ -23,6 +23,8 @@ These following packages must be installed for functioning
 * datetime(default) - To work with date and time
 * base64(default) - To encode passwords 
 
+Run the main.py file to see working
+
 ### Plans of improvement :
 * Use speech recognition
 * Make web-app with graphical interface with real time backend and database
